@@ -6,7 +6,9 @@
 
 **Email:** sebilla.hanter@gmail.com
 
-**GitHub:** https://github.com/Sebi11a
+**GitHub:** [sebi11a](https://github.com/Sebi11a)
+
+**Telegram:** [Rina](https://t.me/Skorbut1)
 
 ## Briefly About Myself:
 
