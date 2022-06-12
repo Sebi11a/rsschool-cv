@@ -12,8 +12,12 @@
 
 ## Briefly About Myself:
 
+## Skills and Proficiency:
 
+## Code example:
 
 ## Courses
 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
